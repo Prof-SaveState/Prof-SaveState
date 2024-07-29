@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá 👋💕
+
+Meu nome é Odair José Pin. Sou professor de Tecnologia e Robótica 👨‍🏫
+
+Criei este perfil para divulgar meus projetos teste que foram desenvolvidos durante as aulas. 
+
+![PurrcoinPurrCoinGIF](https://github.com/user-attachments/assets/5593309d-77c4-4fc5-81a7-ad2d7248d854)
 
 <!--
 **Prof-SaveState/Prof-SaveState** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
